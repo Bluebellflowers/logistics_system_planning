@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="920335c5-1071-48ad-a484-0536516dfca5" name="默认变更列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/logistics_system_planning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L_OD_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L_OD_data.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_pi_pre.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/city_coordinate1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/city_distance.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/city_distance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/city_distance.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/city_name.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/city_sq.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_to_draw_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/draw_except_map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gravity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/od_draw1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/od_draw2.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/od_draw3.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/od_draw_data1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/od_draw_data2.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/od_draw_data3.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/od_pre_1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/od_pre_2.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/od_pre_3.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/save_ai_pi_pre.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21z9TcecJpUBf0VBmq8iHTwAVS6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="920335c5-1071-48ad-a484-0536516dfca5" name="默认变更列表" comment="" />
+      <created>1638933058525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638933058525</updated>
+      <workItem from="1638933060302" duration="85000" />
+      <workItem from="1639473810138" duration="771000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
